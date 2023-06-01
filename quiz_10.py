@@ -1,5 +1,4 @@
 #正则匹配中文
-
 import re
 
 string = "中文！English"
